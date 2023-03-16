@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <h2 align="center">Hi there 👋 I'm Ajit Gavade </h2>
-<h3 align="center">I'm a Third year Computer Engineering student at PICT Pune.</h3>
+<h3 align="center">I'm a Computer Engineering student at PICT Pune.</h3>
 
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=thecamron&label=Profile%20views&color=0e75b6&style=flat" alt="thecamron" /> </p> -->
 
