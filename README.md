@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
  💻 I’m working with Web Development | DSA | Competative Programming <br>
  ⚡ I’m currently learning Algorithms | MERN Stack | Kindness.
 <p align="center"> 
-  <a href="https://www.linkedin.com/in/ajitgavade02/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:ajitgavade.ai@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/thecamron" target="blank"><img src="https://img.shields.io/badge/RESUME📄-0077B5?style=for-the-badge&logo=Download&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ajitgavade02/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:ajitgavade.ai@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/thecamron" target="_blank"><img src="https://img.shields.io/badge/RESUME📄-0077B5?style=for-the-badge&logo=Download&logoColor=white"/></a>
  
