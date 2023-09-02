@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 - 👀 I’m interested in becoming a Software Engineer.
 - 👤 I love doing Competitive Programming and developing projects.
 - 💻 I have worked with C++, HTML, CSS, React.js, Node.js, Python, SQL, Etc.
-- ⚡ I’m currently learning Algorithms | MERN Stack | Kindness.
+- ⚡ I’m learning Algorithms | MERN Stack | Kindness.
 <h3> 🤝🏻 Connect with Me </h3>
 <br>
 <br>
