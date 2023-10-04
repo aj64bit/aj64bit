@@ -22,5 +22,5 @@ You can click the Preview link to take a look at your changes.
 <p align="center"> 
   <a href="https://www.linkedin.com/in/ajitgavade02/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:ajitgavade02@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.overleaf.com/read/nggvwxmdqnyr" target="_blank"><img src="https://img.shields.io/badge/RESUME📄-0077B5?style=for-the-badge&logo=Download&logoColor=white"/></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/RESUME📄-0077B5?style=for-the-badge&logo=Download&logoColor=white"/></a>
  
