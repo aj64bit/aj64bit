@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🎓 I’m currently pursuing Computer Engineering from PICT Pune.
-- 👀 I’m interested in becoming a Software Engineer[Good ☮].
+- 👀 I’m interested in becoming a [Good ☮] Software Engineer.
 - 💚 I love doing Competitive Programming and developing projects.
 - 💻 I have worked with C++, HTML, CSS, React.js, Node.js, Python, SQL, Etc.
 - ⚡ I’m learning Algorithms | MERN Stack | Kindness.
