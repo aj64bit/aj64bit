@@ -1,10 +1,5 @@
 
-<!---
-i-camron/i-camron is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=thecamron&label=Profile%20views&color=0e75b6&style=flat" alt="thecamron" /> </p> -->
+[<img src="https://komarev.com/ghpvc/?username=actron-git&label=Profile+Views&color=4287f5&style=flat" />](https://github.com/actron-git)
 
 <h2> Hello :) I'm Ajit Gavade.</h2>
 <img align="right" alt="GIF" src="https://media1.tenor.com/images/9fb771fb621c29b0a2eae945b5ceeeb3/tenor.gif" width="350"/>
