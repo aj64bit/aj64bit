@@ -1,6 +1,4 @@
 
-[<img src="https://komarev.com/ghpvc/?username=actron-git&label=Profile+Views&color=4287f5&style=flat" />](https://github.com/actron-git)
-
 <h2> Hello :) I'm Ajit Gavade.</h2>
 <img align="right" alt="GIF" src="https://media1.tenor.com/images/9fb771fb621c29b0a2eae945b5ceeeb3/tenor.gif" width="350"/>
 
@@ -11,6 +9,9 @@
 - 💚 I love doing Competitive Programming and developing projects.
 - 💻 I have worked with C++, HTML, CSS, React.js, Node.js, Python, SQL, Etc.
 - ⚡ I’m learning Algorithms | MERN Stack | Kindness.
+- 
+[<img src="https://komarev.com/ghpvc/?username=actron-git&label=Profile+Views&color=4287f5&style=flat" />](https://github.com/actron-git)
+
 - <h3> 🤝🏻 Connect with Me </h3>
 <br>
 <br>
