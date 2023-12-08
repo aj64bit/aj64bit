@@ -9,8 +9,7 @@
 - 💚 I love doing Competitive Programming and developing projects.
 - 💻 I have worked with C++, HTML, CSS, React.js, Node.js, Python, SQL, Etc.
 - ⚡ I’m learning Algorithms | MERN Stack | Kindness.
-
-&nbsp [<img src="https://komarev.com/ghpvc/?username=actron-git&label=Profile+Views&color=4287f5&style=flat" />](https://github.com/actron-git)
+ [<img src="https://komarev.com/ghpvc/?username=actron-git&label=Profile+Views&color=4287f5&style=flat" />](https://github.com/actron-git)
 
 - <h3> 🤝🏻 Connect with Me </h3>
 <br>
