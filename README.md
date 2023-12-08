@@ -4,21 +4,18 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🎓 I’m currently pursuing Computer Engineering from PICT Pune.
-- 👀 I’m interested in becoming a [Good ☮] Software Engineer.
-- 💚 I love doing Competitive Programming and developing projects.
-- 💻 I have worked with C++, HTML, CSS, React.js, Node.js, Python, SQL, Etc.
-- ⚡ I’m learning Algorithms | MERN Stack | Kindness.
+- 🔭 I’m currently exploring the realms of `Computer Science`
+- 🌱 Learning about `Algorithms`
+- 💼 Open to SDE/SWE roles.
+- 💚 I love Competitive Programming and Developing projects.
   <br>
   <br>
- [<img src="https://komarev.com/ghpvc/?username=actron-git&label=Profile+Views&color=4287f5&style=flat" />](https://github.com/actron-git)
-
 
 <br>
 <br>
 <p align="center"> 
   <a href="https://www.linkedin.com/in/ajitgavade02/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:ajitgavade02@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/RESUME📄-0077B5?style=for-the-badge&logo=Download&logoColor=blue"/></a>
+  <a href="https://drive.google.com/file/d/1pAfHZMRTr_RqUH6k3_jbPH9KVnxSRXyd/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/RESUME📄-0077B5?style=for-the-badge&logo=Download&logoColor=blue"/></a>
 
 
