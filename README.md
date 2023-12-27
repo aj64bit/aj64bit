@@ -7,7 +7,7 @@
 - 🔭 I’m currently exploring the realms of `Computer Science`
 - 🌱 Learning about `Algorithms`
 - 💼 Open to SDE/SWE roles.
-- 💚 I love Competitive Programming and Developing projects.
+- 💚 I love `Competitive Programming` and `Problem solving`.
   <br>
   <br>
 
