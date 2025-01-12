@@ -1,5 +1,5 @@
 
-<h2> Hello I'm Ajay :)</h2>
+<h2> Hie I'm Ajay :)</h2>
 <img align="right" alt="GIF" src="https://media1.tenor.com/images/9fb771fb621c29b0a2eae945b5ceeeb3/tenor.gif" width="200"/>
 
  🔭 I’m currently exploring the realms of `Computer Science`<br>
